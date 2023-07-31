@@ -23,17 +23,17 @@
       "salida": "Capuli",
       "llegada": "EPN",
       "maquinista": "Marco",
-      "detalles": "piloso",
+      "detalles": "hola",
       "id": "376b4a02-40ab-47c5-b705-e4591c7256e0"
     },
     {
-      "nombre": "ada",
-      "sector": "sdad",
-      "salida": "sdasda",
-      "llegada": "asddsa",
-      "maquinista": "sdad",
-      "detalles": "sdaad",
-      "id": "29b22d9b-5524-4f6d-be59-3a2121bdb14c"
+      "nombre": "Quitumbe",
+      "sector": "SanCristobal",
+      "salida": "Capuli",
+      "llegada": "EPN",
+      "maquinista": "Marco",
+      "detalles": "EsMaquinista",
+      "id": "103ef069-0aa7-4ef2-8950-56c756e439d9"
     }
   ]
 }
